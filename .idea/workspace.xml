@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee2d1c4d-06ed-45e5-85bc-0d8aaec27afc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/executandoRegex/usandoJavaScript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +30,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Node.js.usandoJavaScript.js">
     <configuration name="flags.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/executandoRegex/flags.js" working-dir="$PROJECT_DIR$/executandoRegex">
@@ -51,18 +64,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,34 +74,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574872727368</updated>
-      <workItem from="1574872728917" duration="2466000" />
+      <workItem from="1574872728917" duration="2713000" />
+      <workItem from="1574875504544" duration="713000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="0" y="55" width="642" height="665" key="#fonte.js" timestamp="1574873856958">
       <screen x="0" y="27" width="1366" height="693" />
     </state>
     <state x="0" y="55" width="642" height="665" key="#fonte.js/0.27.1366.693@0.27.1366.693" timestamp="1574873856958" />
-    <state width="1323" height="160" key="GridCell.Tab.0.bottom" timestamp="1574875318456">
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom" timestamp="1574875336966">
       <screen x="0" y="27" width="1366" height="693" />
     </state>
-    <state width="1323" height="160" key="GridCell.Tab.0.bottom/0.27.1366.693@0.27.1366.693" timestamp="1574875318456" />
-    <state width="1323" height="160" key="GridCell.Tab.0.center" timestamp="1574875318455">
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom/0.27.1366.693@0.27.1366.693" timestamp="1574875336966" />
+    <state width="1323" height="160" key="GridCell.Tab.0.center" timestamp="1574875336965">
       <screen x="0" y="27" width="1366" height="693" />
     </state>
-    <state width="1323" height="160" key="GridCell.Tab.0.center/0.27.1366.693@0.27.1366.693" timestamp="1574875318455" />
-    <state width="1323" height="160" key="GridCell.Tab.0.left" timestamp="1574875318455">
+    <state width="1323" height="160" key="GridCell.Tab.0.center/0.27.1366.693@0.27.1366.693" timestamp="1574875336965" />
+    <state width="1323" height="160" key="GridCell.Tab.0.left" timestamp="1574875336964">
       <screen x="0" y="27" width="1366" height="693" />
     </state>
-    <state width="1323" height="160" key="GridCell.Tab.0.left/0.27.1366.693@0.27.1366.693" timestamp="1574875318455" />
-    <state width="1323" height="160" key="GridCell.Tab.0.right" timestamp="1574875318456">
+    <state width="1323" height="160" key="GridCell.Tab.0.left/0.27.1366.693@0.27.1366.693" timestamp="1574875336964" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right" timestamp="1574875336966">
       <screen x="0" y="27" width="1366" height="693" />
     </state>
-    <state width="1323" height="160" key="GridCell.Tab.0.right/0.27.1366.693@0.27.1366.693" timestamp="1574875318456" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right/0.27.1366.693@0.27.1366.693" timestamp="1574875336966" />
     <state width="1323" height="129" key="GridCell.Tab.1.bottom" timestamp="1574875168023">
       <screen x="0" y="27" width="1366" height="693" />
     </state>
