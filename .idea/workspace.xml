@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee2d1c4d-06ed-45e5-85bc-0d8aaec27afc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UCu72VFxYfzBzeeXPp8e84JOsD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Node.js.flags.js">
+    <configuration name="flags.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/executandoRegex/flags.js" working-dir="$PROJECT_DIR$/executandoRegex">
+      <method v="2" />
+    </configuration>
+    <configuration name="fonte.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fonte.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.flags.js" />
+        <item itemvalue="Node.js.fonte.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee2d1c4d-06ed-45e5-85bc-0d8aaec27afc" name="Default Changelist" comment="" />
+      <created>1574872727368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574872727368</updated>
+      <workItem from="1574872728917" duration="1486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="55" width="642" height="665" key="#fonte.js" timestamp="1574873856958">
+      <screen x="0" y="27" width="1366" height="693" />
+    </state>
+    <state x="0" y="55" width="642" height="665" key="#fonte.js/0.27.1366.693@0.27.1366.693" timestamp="1574873856958" />
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom" timestamp="1574874297077">
+      <screen x="0" y="27" width="1366" height="693" />
+    </state>
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom/0.27.1366.693@0.27.1366.693" timestamp="1574874297077" />
+    <state width="1323" height="160" key="GridCell.Tab.0.center" timestamp="1574874297076">
+      <screen x="0" y="27" width="1366" height="693" />
+    </state>
+    <state width="1323" height="160" key="GridCell.Tab.0.center/0.27.1366.693@0.27.1366.693" timestamp="1574874297076" />
+    <state width="1323" height="160" key="GridCell.Tab.0.left" timestamp="1574874297075">
+      <screen x="0" y="27" width="1366" height="693" />
+    </state>
+    <state width="1323" height="160" key="GridCell.Tab.0.left/0.27.1366.693@0.27.1366.693" timestamp="1574874297075" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right" timestamp="1574874297077">
+      <screen x="0" y="27" width="1366" height="693" />
+    </state>
+    <state width="1323" height="160" key="GridCell.Tab.0.right/0.27.1366.693@0.27.1366.693" timestamp="1574874297077" />
+    <state x="172" y="27" width="1011" height="693" key="SettingsEditor" timestamp="1574872906483">
+      <screen x="0" y="27" width="1366" height="693" />
+    </state>
+    <state x="172" y="27" width="1011" height="693" key="SettingsEditor/0.27.1366.693@0.27.1366.693" timestamp="1574872906483" />
+    <state x="346" y="41" key="search.everywhere.popup" timestamp="1574872844734">
+      <screen x="0" y="27" width="1366" height="693" />
+    </state>
+    <state x="346" y="41" key="search.everywhere.popup/0.27.1366.693@0.27.1366.693" timestamp="1574872844734" />
+  </component>
+</project>
